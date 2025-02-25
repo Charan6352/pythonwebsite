@@ -37,7 +37,7 @@ def home():
         </div>
 
         <div class="container">
-            <h2>Welcome to Little Champs School</h2>
+            <h2>Welcome to Little Gems School</h2>
             <img src="/images/school_main.jpg" alt="School Building">
             <p>Empowering Young Minds with Knowledge and Creativity!</p>
         </div>
@@ -45,7 +45,7 @@ def home():
         <div id="about" class="container">
             <h2>About Us</h2>
             <img src="/images/school_students.jpg" alt="Students in Classroom">
-            <p>Little Champs School is dedicated to nurturing young minds with innovative learning and creativity.</p>
+            <p>Little Gems School is dedicated to nurturing young minds with innovative learning and creativity.</p>
         </div>
 
         <div id="admissions" class="container">
@@ -63,7 +63,7 @@ def home():
         <div id="contact" class="container">
             <h2>Contact Us</h2>
             <img src="/images/school_contact.jpg" alt="School Contact">
-            <p>Email: info@littlechampsschool.com | Phone: +123 456 7890</p>
+            <p>Email: info@littlegemsschool.com | Phone: +123 456 7890</p>
         </div>
     </body>
     </html>
